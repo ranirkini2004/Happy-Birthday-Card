@@ -7,9 +7,9 @@ This app displays a digital birthday greeting card with a gradient background, b
 
 ## 📸 App Output
 
-![App Screenshot](app_output.png)
+![App Screenshot](app_output.jpeg)
 
-> ⚠ Place your screenshot file `app_output.png` in the root folder (same location as README.md)
+> ⚠ Place your screenshot file `app_output.jpeg` in the root folder (same location as README.md)
 
 ---
 
