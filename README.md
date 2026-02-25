@@ -66,13 +66,6 @@ The app includes:
 
 ---
 
-## 👩‍💻 Author
-
-Your Name  
-Android Developer 🚀  
-
----
-
 ## 📄 License
 
 This project is created for educational and practice purposes.
