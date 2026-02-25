@@ -1,4 +1,4 @@
-package com.example.happy_birthdaycard
+package com.example.happybirthdaycard
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
